@@ -1,0 +1,7 @@
+name: NowSchool
+version: 1.0.0
+main: main.Main
+api-version: 1.18
+commands:
+  지우학:
+    description: 지우학 명령어
